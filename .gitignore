@@ -1,5 +1,6 @@
 allero
 .vscode/*.log
+.vscode/launch.json
 dist
 .vscode/settings.json
 
